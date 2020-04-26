@@ -1,0 +1,1 @@
+# SingletonPattern_c-
